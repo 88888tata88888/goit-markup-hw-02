@@ -1,0 +1,163 @@
+/*===COMPONENTS===*/
+.link {
+    text-decoration: none;
+}
+.list{
+    list-style: none;
+}
+.address {
+    font-style: normal;
+}
+.logo {
+    color: #000000;
+    font-family:  'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1,19;
+    letter-spacing: 0.03em;
+}
+.nav-link {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1,17;
+    letter-spacing: 0.02em;
+    font-style: normal;
+    color: #212121;
+}
+.nav-link:hover,
+.nav-link:focus {
+    color: #2196F3;
+}
+.info-link {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1,17;
+    letter-spacing: 0.02em;
+    font-style: normal;
+}
+.info {
+    color: #757575;
+}
+.info:hover,
+.info:focus {
+    color: #2196F3;
+}
+/*===END COMPONENTS===*/
+
+/*===HERO===*/
+.hero-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 44px;
+    text-align: center;
+    line-height: 1.36;
+    color: #ffffff;
+}
+.hero-right-site {
+    background: #2F303A;
+}
+.modal-btn {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+  color: #ffffff;
+  background-color: #2196F3;
+  cursor: pointer;
+}
+.modal-btn:hover,
+.modal-btn {
+    background-color: #2196F3;
+}
+/*=== END HERO===*/
+
+/*===ABOUT===*/
+.work-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1,14;
+    letter-spacing: 0.03em;
+    font-style: normal;
+    color: #212121;
+    text-transform: uppercase;
+}
+.work-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1,71;
+    letter-spacing: 0.03em;
+    font-style: normal;
+    color: #757575;
+}
+/*=== END ABOUT===*/
+
+/*=== SERVICES===*/
+.caption {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1,16;
+    text-align: center;
+    letter-spacing: 0.03em;
+    font-style: normal;
+    color: #212121; 
+}
+/*=== END SERVICES===*/
+
+/*=== MASTERS===*/
+.work-name {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1,18;
+    letter-spacing: 0.03em;
+    font-style: normal;
+    color: #212121; 
+}
+.position {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1,18;
+    letter-spacing: 0.03em;
+    font-style: normal;
+    color: #757575; 
+}
+/*===END MASTERS===*/
+
+/*=== CONTACTS===*/
+.contacts {
+    background-color: #2F303A;
+}
+.logo-color {
+    color: #2196F3;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1,19;
+    letter-spacing: 0.03em;
+}
+.logo-contacts {
+    color: #ffffff;
+    font-family:  'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1,19;
+    letter-spacing: 0.03em;
+}
+.maps {
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1,71;
+    letter-spacing: 0.03em; 
+    font-style: #ffffff;
+}
+.contacts-info {
+    color: rgba(225, 225, 225, 0.6);
+}
