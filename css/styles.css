@@ -1,4 +1,10 @@
 /*===COMPONENTS===*/
+body {
+    --main-font: "Roboto", sans-serif;
+    --secondary-font: "Raleway", sans-serif;
+    --accent-color: #2196f3;
+    --secondary-color: #212121;
+}
 .link {
 	text-decoration: none;
 }
